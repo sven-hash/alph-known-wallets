@@ -167,4 +167,12 @@ export const knownAddresses = new Map([
     "1F8BAnQ8TspUcpLKHzxyaUMZ8fw3YvT3NJ3VQuY43dnFA",
     { type: "Pool", name: "Solopool" },
   ],
+  [
+    "0xa344855388c9f2760e998eb2207b58de6e7d0360",
+    { type: "Uniswap", name: "Uniswap V3: ALPH-USDT" },
+  ],
+  [
+    "0x9628105808292699874f20d77d50a09bc26850c5",
+    { type: "Uniswap", name: "Uniswap V3: ALPH" },
+  ],
 ]);
