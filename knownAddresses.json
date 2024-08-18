@@ -27,6 +27,14 @@
     "type": "Exchange",
     "name": "Coinmetro"
   },
+  "1GS8Hv3Fxm2Zduxek9Kr85LL1qAC4tDzbVaUiJbcex3qV": {
+    "type": "Exchange",
+    "name": "Bitget"
+  },
+  "1Fa7ioV6o2g8WdvYBRqQKFQoNfN4Mws1Hx3kRtMgNmFRo": {
+    "type": "Exchange",
+    "name": "Biconomy"
+  },
   "1HSajUFSnCbBV5cXtwsCkWQ8jVAwBTjajun9qMXW8kG6m": {
     "type": "Pool",
     "name": "Metapool"
